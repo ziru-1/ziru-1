@@ -54,6 +54,12 @@
   <img src="https://img.shields.io/badge/Render-009688?style=for-the-badge&logo=render&logoColor=white"/>
 </p>
 
+### 🤖 AI / Vector Search
+<p>
+  <img src="https://img.shields.io/badge/Cohere-3949AB?style=for-the-badge&logo=cohere&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pinecone-0052CC?style=for-the-badge&logo=pinecone&logoColor=white"/>
+</p>
+
 ### 🛠️ Tools & Others
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
