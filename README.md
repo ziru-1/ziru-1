@@ -7,7 +7,7 @@
 <table>
   <tr>
     <td>
-      <img src="https://ghstats.dev/api/card?username=ziru-1&theme=tokyonight"/>
+        <img src="https://github-readme-stats.vercel.app/api?username=ziru-1&show_icons=true&theme=tokyonight"/>
     </td>
     <td>
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=ziru-1&theme=tokyonight"/>
