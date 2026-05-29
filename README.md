@@ -3,20 +3,6 @@
 
 ---
 
-## 📊 GitHub Stats
-<table>
-  <tr>
-    <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=ziru-1&show_icons=true&theme=tokyonight"/>
-    </td>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=ziru-1&theme=tokyonight"/>
-    </td>
-  </tr>
-</table>
-
----
-
 ## 🚀 Tech Stack
 
 ### 🖥️ Frontend
@@ -38,6 +24,7 @@
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>
+  <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white"/>
 </p>
 
 ### 🗄️ Database
